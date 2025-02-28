@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(50, 50, 253);
+    display: flex;
+}
+.azul{
+    background-color: rgb(68, 249, 249);
+    padding: 100px;
+    margin: 20px;
+  
+}
+.amarelo{
+    background-color: rgb(238, 238, 47);
+    padding: 100px;
+    margin: 30px;
+}
+.flex{
+    display: flex;
+}
+.alongar{
+    height: 230px;
+}
